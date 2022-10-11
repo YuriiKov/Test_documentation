@@ -15,6 +15,7 @@ _logger = logging.getLogger(__name__)
 # General information about the project.
 project = 'Odoo'
 copyright = 'Odoo S.A.'
+master_doc = 'index'
 
 # `version` if the version info for the project being documented, acts as replacement for |version|,
 # also used in various other places throughout the built documents.
